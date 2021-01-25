@@ -147,6 +147,8 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="bountyLabelCenterX" destination="EBC-yY-K4h" id="37b-OD-y4u"/>
+                        <outlet property="nameLabelCenterX" destination="ile-5u-Q9l" id="xfY-QQ-Qd5"/>
                         <outlet property="selectedBounty" destination="Zee-iJ-ylh" id="xWC-dH-aAL"/>
                         <outlet property="selectedImg" destination="9V6-Yh-gsk" id="fO8-cf-QFI"/>
                         <outlet property="selectedName" destination="5VJ-Xy-Dfw" id="mOO-hG-4e6"/>
